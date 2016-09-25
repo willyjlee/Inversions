@@ -1,2 +1,2 @@
 ## Algorithms: Design and Analysis Part I - Stanford
-###### Programming #1
+Programming #1
